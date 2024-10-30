@@ -1,0 +1,34 @@
+.btn{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    margin: 2rem;
+    
+}
+body{
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.violet{
+    background-color: blueviolet;
+}
+.brown{
+    background-color: brown;
+}
+.yellow{
+    background-color:yellow;
+
+}
+.pink{
+    background-color: pink;
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(97, 252, 97);
+}
